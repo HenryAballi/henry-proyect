@@ -1,0 +1,23 @@
+.videoAndImagem button {
+  width: 3em;
+  height: 3em;
+}
+
+.videosWork {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 140px 0 100px 0;
+}
+
+video {
+  width: 300px;
+  height: 300px;
+}
+
+@media screen and (min-width: 361px) {
+  video {
+    height: 450px;
+    width: 80%;
+  }
+}

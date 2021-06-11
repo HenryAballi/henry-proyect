@@ -1,0 +1,101 @@
+.imagContact {
+  display: none;
+}
+
+.contact-me {
+  padding: 3%;
+}
+
+.fillForm {
+  background-color: lightblue;
+}
+
+.submit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-me h1 {
+  text-align: center;
+  margin: 70px 0;
+}
+
+.contact-form {
+  margin: 0 5%;
+  display: flex;
+  flex-direction: column;
+  padding: 5% 0;
+}
+
+.contact-form label {
+  margin-top: 30px;
+  color: whitesmoke;
+  font-weight: 700;
+}
+
+.contact-form input {
+  height: 40px;
+  outline: none;
+  border: 1px solid;
+  border-radius: .5em;
+  padding-left: 10px;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  outline: none;
+  height: 130px;
+  border-radius: .5em;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.contact-form .send {
+  width: 100px;
+  border-radius: 1.5em;
+  padding: 0;
+}
+
+.codeAndNumber {
+  border: 1px solid black;
+  height: 40px;
+  border-radius: .5em;
+  display: flex;
+  background-color: white;
+}
+
+.codeAndNumber .code{
+  background-color: transparent;
+  width: 40px;
+  border-radius: 0;
+  border: white;
+}
+
+.codeAndNumber .contact_number {
+  width: 100%;
+  border-radius: 0;
+  border: white;
+  background-color: transparent;
+  padding-left: 0;
+}
+
+@media all and (min-width: 580px) {
+  .imagContact {
+    display: block;
+    object-fit: cover;
+  }
+
+  .fillForm {
+    display: flex;
+    flex: row;
+  }
+
+  .imagContact {
+    width: 50%;
+  }
+
+  .contact-form {
+    width: 50%;
+  }
+}

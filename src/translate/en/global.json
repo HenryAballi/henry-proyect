@@ -1,0 +1,84 @@
+{
+  "nav": {
+    "home": "Home",
+    "galleries": "galleries",
+    "photos": "Photos",
+    "videos": "Vídeos",
+    "about-me": "About me",
+    "opinions": "Opinions",
+    "contact": "Contact",
+    "lenguages": "English"
+  },
+  "home": {
+    "text": "Contact me",
+    "text2": "work time:",
+    "text3": "Monday - Saturday",
+    "text4": "8:00h - 20:00h",
+    "text5": "Specialist and founder of Early Intervention in Cuba, with over 20 years of experience in the treatment of children with brain injuries, neurological disorders, genetic syndromes, and other problems. Treatment techniques based on Bobath, Vojta, Cuevas Medek Exercise (CME), Doman and exercises on the ball by Barbara Hypes, neurological assessment by Claudine Amiel-Tison, GMFM scale (Gross Motor Function Measure) and Vojta's reactions are used. He has lived in Portugal for more than 10 years and works mainly in the cities of Braga, Porto and Gumarães."
+  },
+  "biography": {
+    "text": "Degree in Physical Education" ,
+    "text1": "Post-Graduation in Therapeutic Physical Culture" ,
+    "text2": "Diploma in Therapeutic Physical Culture" ,
+    "text3": "Specialist in Children's Neurological Rehabilitation" , 
+    "text4": "Early Intervention Specialist" ,
+    "text5": "Bobath Method Training" ,
+    "text6": "Gross Motor Function Measure (GMFM) training" ,
+    "text7": "Bayley Test Training" ,
+    "text8": "Training in the Neurological Examination of Claudine Amiel-Tison" ,
+    "text10": "Training on the Peabody Motor Development Scale" ,
+    "text11": "Training in Vojta Postural Reactions" ,
+    "text12": "Dry Needling for Hypertonia and Spasticity Course" ,
+    "text13": "Neonatal Neurology Course" ,
+    "text14": "Training in Aquatic Therapy with Children" ,
+    "text15": "Therapeutic Riding Course" ,
+    "text16": "Cardiovascular Rehabilitation Course" ,
+    "text17": "Psychomotor course" ,
+    "text18": "Autism course for children" ,
+    "text19": "Basic Course in Traditional Natural Medicine" ,
+    "text20": "Professional experience in Rehabilitation with Adults" 
+  },
+  "opinions": {
+    "opinion":{
+      "header": "Opinions",
+      "name": "Paulo Barro",
+      "opinions": "This man came from Cuba with the desire to help many boys and girls. Who with little does a lot, who is fair in the amount he charges for his work. A man who sees beyond therapy and advises other approaches. A humble professional. A friend for 9 years ago, a great gentleman in his workfield! Thank you Humberto, my cool Cuban !! Hugs."
+    },
+    "opinion1":{
+      "header": "Comentários",
+      "name": "Margarida Baptista",
+      "opinions": "We recommend Mr. Humberto's work. We found that our son has made a lot of progress at various levels. He manages to take a few steps alone. It was a great achievement, thanks to the exemplary work and dedication of the physiotherapist Humberto."
+    },
+    "opinion2":{
+      "header": "Comentários",
+      "name": "Jacinta Pinheiro",
+      "opinions": "Humberto has worked with Vasquinho for many years. Physiotherapy has allowed our son several motor conquests, because Humberto has a deep knowledge of this ART, strongly influenced by his Cuban origins. Vasquinho has improved a lot, thanks to Humberto's exceptional work! Also to say that the exercises have been adjusted according to Vasquinho's growth / evolution. Thank you Humberto! We will work with you for many years!"
+    },
+    "opinion3":{
+      "header": "Comentários",
+      "name": "Maria Brito",
+      "opinions": "Physiotherapist Humberto has been a great help to my daughter Maria do Céu, she has improved her posture.I really thank for having Mr. Humberto as physiotherapist. We highly recommend his services. Thank you for the attention given to the patient! Big kisses."
+    },
+    "opinion4":{
+      "header": "Comentários",
+      "name": "Claudia Ferreira",
+      "opinions": "Humberto is an excellent professional, thanks to his help my daughter Diana started to walk. He has an incredible technique and, in addition, an excellent heart. Any child who crosses path with him will certainly have improvements !!!"
+    },
+    "opinion5":{
+      "header": "Comentários",
+      "name": "Solange Moura Soares",
+      "opinions": "I Solange Moura Soares with cerebral palsy and my family recommend to all patients who need a physical therapist at home our therapist Humberto Ramirez, who is an excellent professional. Besides being a physical therapist, he is also a friend who shows love for his profession and for the people he cares for. Congratulations and thank you for your wonderful and essential work..."
+    }
+  },
+  "contact": {
+    "placeholderName":"Enter your name",
+    "placeholderEmail":"Enter your email",
+    "placeholderPhoneNumber":"(Optional)",
+    "contact": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+    "send": "Send"
+  }
+}

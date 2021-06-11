@@ -1,0 +1,50 @@
+.humberto {
+  margin-top: 70px;
+  width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.home p {
+  padding: 2em .3em;
+  letter-spacing: 1px;
+  line-height: 1.5em;
+  font-size: 14px;
+}
+
+@media all and (min-width: 600px) {
+  .home {
+    display: flex;
+  }
+  .humberto {
+    margin-top: 70px;
+    width: 50%;
+  }
+  .home p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    width: 50%;
+    text-align: justify;
+    padding: 0 25px;
+  }
+}
+
+
+@media all and (min-width: 900px) {
+  .home {
+    margin: 0 60px;
+  }
+
+  .home p {
+    font-size: 16px;
+    padding: 0 0 0 50px;
+  }
+}
+
+@media all and (min-width: 1125px) {
+  .home p {
+    margin-top: -200px;
+  }
+}

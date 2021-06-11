@@ -1,0 +1,28 @@
+.cardOpinions {
+  background-color: #d7ebf5;
+  text-align: justify;
+  padding: 3em .8em;
+  overflow: hidden;
+  font-size: 14px;
+  line-height: 1.5em;
+  margin: 8px;
+  box-shadow: #96a9b3 3px  3px 3px;
+}
+
+.PatientName {
+  text-align: end;
+  padding-top: 1em;
+  font-weight: 700;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.flex > div {
+  flex: 1 1 250px;
+  margin: 10px;
+}

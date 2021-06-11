@@ -1,0 +1,10 @@
+.allBiography {
+  padding-top: 90px;
+  padding-bottom: 50px;
+  position: relative;
+  z-index: -1;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+

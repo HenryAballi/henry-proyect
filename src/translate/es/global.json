@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Home",
+    "galleries": "Galería",
+    "photos": "Fotos",
+    "videos": "Vídeos",
+    "about-me": "Quién soy",
+    "opinions": "Comentarios",
+    "contact": "Contactos",
+    "lenguages": "Español"
+  },
+  "home": {
+    "text": "Contáctame",
+    "text2": "Horário:",
+    "text3": "Segunda a Sábado",
+    "text4": "8:00h - 20:00h",
+    "text5": "Especialista y fundador de la Intervención Temprana en Cuba, con más de 20 años de experiencia en el tratamiento de niños con lesiones cerebrales, trastornos neurológicos, síndromes genéticos y otros problemas. Utiliza técnicas de tratamiento basadas en los métodos de Bobath, Vojta, Cuevas Medek Exercise (CME), Doman y ejercicios en la bola de Barbara Hypes, evalua fundamentalmente utilizando la escala GMFM (Medición de la Función Motora Gruesa), examen neurológico de Claudine Amiel-Tison y las reacciones posturales de Vojta. Vive en Portugal hace más de 10 años y trabaja principalmente en las ciudades de Braga, Oporto y Gumarães."
+  },
+  "biography": {
+    "text": "Licenciado en Educación Física" ,
+    "text1": "Postgrado en Cultura Física Terapéutica" ,
+    "text2": "Diplomado en Cultura Física Terapéutica" ,
+    "text3": "Especialista en Rehabilitación Neurológica Infantil" , 
+    "text4": "Especialista en Intervención Temprana" ,
+    "text5": "Formación básica en el método Bobath" ,
+    "text6": "Entrenamiento en la escala GMFM (Medición de la función Motora Gruesa)" ,
+    "text7": "Entrenamiento en la escala de Bayley" ,
+    "text8": "Formación en el examen neurológico de Claudine Amiel-Tison" ,
+    "text10": "Capacitación en la escala de desarrollo motor de Peabody" ,
+    "text11": "Entrenamiento en las reacciones posturales de Vojta" ,
+    "text12": "Curso de punción seca para hipertonía y espasticidad" ,
+    "text13": "Curso de Neurología Neonatal" ,
+    "text14": "Formación en Terapia Acuática con Niños" ,
+    "text15": "Curso de equitación terapéutica" ,
+    "text16": "Curso de rehabilitación cardiovascular" ,
+    "text17": "Curso de Psicomotricidad" ,
+    "text18": "Curso de Autismo Infantil" ,
+    "text19": "Curso Básico de Medicina Natural Tradicional" ,
+    "text20": "Experiencia profesional en rehabilitación con adultos" 
+  },
+  "opinions": {
+    "opinion":{
+      "header": "Comentários",
+      "name": "Paulo Barro",
+      "opinions": "Este hombre vino de Cuba con el deseo de ayudar a muchos niños y niñas. El que con poco hace mucho, es justo en el valor que cobra por su trabajo. Un hombre que ve más allá de la terapia y aconseja otros enfoques. Un humilde profesional. ¡Un amigo de hace 9 años, un gran caballero en su área! Gracias Humberto, mi cubano genial !! Abrazos."
+    },
+    "opinion1":{
+      "name": "Margarida Baptista",
+      "opinions": "Recomendamos el trabajo del Senhor Humberto. Observamos que nuestro hijo ha progresado mucho en varios niveles. Consigue dar algunos pasos solo. Fue un gran logro gracias al trabajo ejemplar y la dedicación del fisioterapeuta Humberto."
+    },
+    "opinion2":{
+      "name": "Jacinta Pinheiro",
+      "opinions": "Humberto ha trabajado con Vasquinho durante muchos años. La fisioterapia le ha permitido a nuestro hijo varias conquistas motoras, pues Humberto tiene un conocimiento profundo de este ARTE, muy influenciado por sus raíces cubanas. ¡Vasquinho ha evolucionado mucho gracias al trabajo excepcional de Humberto! También decir que los ejercicios se han ajustado de acuerdo con el crecimiento / evolución de Vasquinho. ¡Gracias Humberto! ¡Trabajaremos contigo durante muchos años!"
+    },
+    "opinion3":{
+      "name": "Maria Brito",
+      "opinions": "El fisioterapeuta Humberto ha sido de gran ayuda para mi hija Maria do Ceu, ella ha mejorado considerablemente su postura, damos gracias por tener al Sr. Humberto como fisioterapeuta, recomiendo 100% sus servicios, gracias por la atención que le da al paciente, grandes besos."
+    },
+    "opinion4":{
+      "name": "Claudia Ferreira",
+      "opinions": "Humberto es un excelente profesional, fue gracias a su ayuda que mi hija Diana empezó a caminar. Tiene una técnica increíble y además un corazón excelente. Cualquier niño que se cruce con él seguro que tendrá mejoras !!!"
+    },
+    "opinion5":{
+      "header": "Comentários",
+      "name": "Solange Moura Soares",
+      "opinions": "Yo Solange Moura Soares con parálisis cerebral y mi familia recomendamos a todos los pacientes que necesiten un fisioterapeuta a domicilio nuestro terapeuta Humberto Ramirez, que es un excelente profesional. Además de fisioterapeuta, es un amigo que muestra amor por la profesión y por las personas que cuida. Felicitaciones y gracias por su maravilloso y esencial trabajo ..."
+    }
+  },
+  "contact": {
+    "placeholderName":"Introdusca su nombre",
+    "placeholderEmail":"Introdusca su email",
+    "placeholderPhoneNumber":"(Opcional)",
+    "contact": "Contactos",
+    "name": "Nombre",
+    "email": "Email",
+    "phoneNumber": "Número de teléfono",
+    "message": "Mensaje",
+    "send": "Enviar"
+  }
+}

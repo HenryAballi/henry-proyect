@@ -1,0 +1,196 @@
+* {
+  padding: 0;
+}
+
+/* mobile */
+nav {
+  font-size: 14px;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+  height: 70px;
+  background-color: #0082e6;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav ul li:hover {
+  color: #BDBDBD;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+a:hover {
+  color: #BDBDBD;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav .burger {
+  display: flex;
+  color: white;
+  width: 40px;
+  height: 35px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.logoImg {
+  width: 50px;
+  height: 50px;
+  border-radius: 2em;
+  object-fit: cover;
+  margin-left: 20px;
+}
+
+nav ul li {
+  width: 100%;
+  cursor: pointer;
+  padding: 10px 0;
+  border-bottom: 1px solid white;
+}
+
+.videoImage {
+  color: white;
+  margin-left: 10px;
+  border-bottom: none;
+  border-top: none;
+}
+
+.videoImage li {
+  margin-left: -10px;
+}
+
+.galleriesLi {
+  border-top: 1px solid white;
+}
+
+.arrow {
+  margin-bottom: -4px;
+}
+
+.about-me {
+  border-top: 1px solid white;
+}
+
+.list {
+  padding-left: 20px;
+  background-color: rgb(75, 145, 250);;
+}
+
+.menu {
+  display: flex;
+  left: -100%;
+  transition: 1s;
+  position: absolute;
+  z-index: -1;
+  flex-direction: column;
+  top: 70px;
+  width: 50%;
+  height: 100vh;
+  background-color: rgb(75, 145, 250);
+}
+
+.menu-show {
+  left: 0;
+}
+
+.btn {
+  background-color: rgb(75, 145, 250);
+}
+
+.galleries {
+  display: none;
+}
+
+.galleries-show {
+  display: block;
+  margin-top: 11px;
+  margin-bottom: -11px;
+}
+
+nav ul li ul li {
+  display: block;
+  border-top: none;
+}
+
+.flagButton button {
+  width: 18px;
+  height: 12px;
+  border: none;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.flagAndBurger {
+  display: flex;
+  align-items: center;
+}
+
+.flag {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+@media all and (min-width: 900px) {
+
+  nav {
+    justify-content: space-around;
+  }
+
+  .menu {
+    display: flex;
+    flex-direction: row;
+    position: static;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+  }
+  
+  .logoImg {
+    margin-left: 0;
+  }
+  
+  nav ul li {
+    padding: 0;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-bottom: none;
+  }
+
+  .about-me {
+    border-top: none;
+  }
+  
+  .videoImage {
+    margin-left: 0;
+  }
+
+  .videoImage li {
+    margin-left: 0;
+    border-bottom: 1px solid white;
+  }
+  
+  .list {
+    padding-left: 0;
+  }
+
+  .list a {
+    padding: 0;
+  }
+
+  nav .burger {
+    display: none;
+  }
+}
