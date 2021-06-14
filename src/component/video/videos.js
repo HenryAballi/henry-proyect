@@ -1,5 +1,5 @@
 import React from "react";
-import videoEdition from "../../assets/videos/edition1.MOV";
+import videoEdition from "../../assets/videos/edition1.mp4";
 import useManageMenus from '../../hooks/useManageMenus';
 import "./video.css";
 
